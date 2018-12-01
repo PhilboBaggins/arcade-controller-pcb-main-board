@@ -1,8 +1,8 @@
-# Arcade controller main board
+# Modular controller main board
 
 <img align="right" src="./PlaceholderImage.png">
 
-Design files for the main board in the [arcade controller](https://github.com/PhilboBaggins/arcade-controller) project.
+Design files for the main board in the [modular controller](https://github.com/PhilboBaggins/modular-controller) project.
 
 ## Design files
 
